@@ -14,3 +14,4 @@ Files paths in your XML have to be written from the repository where your XML fi
 
 If you have a trouble use this website : https://www.xmlvalidation.com to see errors in your XML (Validate your XML againt the XSD schema used)
 
+You can convert the XSD schema as functions with PyXB (Python) ou JaXB (Java) fou use it in your program.
