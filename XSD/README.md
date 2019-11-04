@@ -10,6 +10,8 @@ We provide only an archive because this work is not intended to be written by ev
 
 **Tips for write your XML** :
 
+If you need help with XML/XSD you can consult very good tutorailas on W3C website : https://www.w3schools.com/xml/
+
 Files paths in your XML have to be written from the repository where your XML file is, do not put the full path.
 
 If you have a trouble use this website : https://www.xmlvalidation.com to see errors in your XML (Validate your XML againt the XSD schema used)
